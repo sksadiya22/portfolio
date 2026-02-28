@@ -37,7 +37,7 @@ const Experience = () => {
             <Sparkles size={20} className="text-purple-400" />
             <span className="text-purple-400 text-sm">My Journey</span>
           </div>
-          <h2 className="text-5xl md:text-6xl font-bold mb-4">Work Experience</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Work Experience</h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg">
             My professional journey and the amazing companies I've worked with
           </p>

@@ -49,7 +49,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3 }}
             >
-              <h1 className="text-4xl lg:text-6xl font-bold leading-tight whitespace-nowrap">
+              <h1 className="text-3xl lg:text-5xl font-bold leading-tight whitespace-nowrap">
                 <span className='text-blue-300 mr-2'>Hi, I&apos;m</span>
                 <span className='text-white'> Sadiya </span>
                 <motion.span

@@ -22,7 +22,7 @@ const About = () => {
             <User size={20} className="text-blue-400" />
             <span className="text-blue-400 text-sm">Get to know me</span>
           </div>
-          <h2 className="text-5xl md:text-6xl font-bold mb-6">About Me</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
         </motion.div>
 
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-8 items-center mb-16">
