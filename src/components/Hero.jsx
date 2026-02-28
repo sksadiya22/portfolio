@@ -49,7 +49,7 @@ const Hero = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3 }}
             >
-              <h1 className="text-2xl lg:text-4xl font-bold leading-tight whitespace-nowrap">
+              <h1 className="text-xl lg:text-3xl font-bold leading-tight whitespace-nowrap">
                 <span className='text-blue-300 mr-2'>Hi, I&apos;m</span>
                 <span className='text-white'> Sadiya </span>
                 <motion.span
@@ -78,7 +78,7 @@ const Hero = () => {
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: -10 }}
                     transition={{ duration: 0.5 }}
-                    className='text-lg font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400'
+                    className='text-base font-semibold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400'
                   >
                     {roles[currentRole]}
                   </motion.span>
